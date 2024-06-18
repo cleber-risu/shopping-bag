@@ -1,7 +1,7 @@
 <h1 align="center">Formulário para agendamento de uma mentoria</h1>
 
 <p align="center">
-  <img alt="shopping bag" src=".github/shopping-bag" width="100%">
+  <img alt="shopping bag" src=".github/shopping-bag.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
