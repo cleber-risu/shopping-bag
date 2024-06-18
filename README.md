@@ -1,4 +1,4 @@
-<h1 align="center">Formulário para agendamento de uma mentoria</h1>
+<h1 align="center">Shopping Bag</h1>
 
 <p align="center">
   <img alt="shopping bag" src=".github/shopping-bag.png" width="100%">
